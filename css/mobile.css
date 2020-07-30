@@ -1,0 +1,40 @@
+@media (max-width: 600px) {
+  .products {
+    display: inherit;
+    height: auto;
+  }
+
+  .product {
+    margin-top: auto;
+  }
+
+  .main_section {
+    padding: 4%;
+  }
+
+  .side_section {
+    padding: 4%;
+  }
+
+  .comprados {
+    display: inherit;
+    height: auto;
+  }
+
+  .comprado {
+    margin-top: auto;
+  }
+
+  .comments_section {
+    padding: 4%;
+  }
+
+  .comments {
+    display: inherit;
+    height: auto;
+  }
+
+  .comment {
+    margin-top: auto;
+  }
+}
